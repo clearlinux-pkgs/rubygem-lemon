@@ -4,7 +4,7 @@
 #
 Name     : rubygem-lemon
 Version  : 0.9.1
-Release  : 2
+Release  : 3
 URL      : https://rubygems.org/downloads/lemon-0.9.1.gem
 Source0  : https://rubygems.org/downloads/lemon-0.9.1.gem
 Summary  : No detailed summary available
